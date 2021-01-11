@@ -15,6 +15,16 @@
 
 ![网易云课堂课程体系](https://upload-images.jianshu.io/upload_images/19490456-8c7f1b658de80441.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+## 评分标准
+
+★★★☆☆:一般意义上的好课，但知名度较低，同时缺少实验、练习等配套资料
+
+★★★★☆:一般意义上的好课，缺少实验或缺少习题训练
+
+★★★★★:知名度较高的好课，拥有完善的配套资料——教材、实验、习题等
+
+★★★★★★★:极高水平的课程，拥有特色实验或习题，培养体系完善，知名度高
+
 ## 数学基础
 
 数学基础中，必修的主要课程为**高等数学**，**线性代数**，**概率论与数理统计**，**离散数学**，可选部分为数学分析，近世代数，密码学基础等。
@@ -24,7 +34,8 @@
 | 课程名称 | 开课学校/机构 | 授课教师 | 配套教材 | 课程链接 | 详细介绍 | 推荐指数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 微积分 | 浙江大学 | 苏德矿 |  | [中国大学mooc](https://www.icourse163.org/course/ZJU-1003315004) | 待补充 | ★★★★★ |
-| 高等数学 | 爱启航 | 张宇 | [张宇高等数学18讲](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F26552265%2F&query=张宇高等数学&cat_id=1001&type=search&pos=0) | [b站链接](https://www.bilibili.com/video/BV165411W75q?from=search&seid=5633749851865248110) | 待补充 | ★★★★☆ |
+| 高等数学 | 爱启航 | 张宇 | [张宇高等数学18讲](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F26552265%2F&query=张宇高等数学&cat_id=1001&type=search&pos=0) | [b站链接](https://www.bilibili.com/video/BV165411W75q?from=search&seid=5633749851865248110) | 待补充 | ★★★★★ |
+| 高等数学零基础 | 文都考研 | 汤家凤 |  | [b站链接](https://www.bilibili.com/video/BV1WK41137s8?from=search&seid=14181172619011897132) | 待补充 | ★★★★★ |
 
 **线性代数**
 
@@ -32,7 +43,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 线性代数 | MIT | 吉尔伯特·斯特朗 | [线性代数第五版](https://book.douban.com/subject/34820335/) | [网易公开课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html) | 待补充 | ★★★★★ |
 | 线性代数 | 清华大学 | 马辉、徐帆 | [线性代数第五版](https://book.douban.com/subject/34820335/) | [学堂在线](https://www.xuetangx.com/course/THU07011000411/4231035?channel=search_result) | 待补充 | ★★★☆☆ |
-| 线性代数 | Mooc考研 | 李永乐 | [线性代数辅导讲义](https://book.douban.com/subject/4712636/) | 暂无 | 待补充 | ★★★★☆ |
+| 线性代数 | Mooc考研 | 李永乐 | [线性代数辅导讲义](https://book.douban.com/subject/4712636/) | 暂无 | 待补充 | ★★★★★ |
 
 **概率论与数理统计**
 
@@ -91,17 +102,18 @@
 | ------------------------------------------------------------ | ------------- | ----------- | ------------------------------------------------------- | ------------------------------------------------------------ | -------- | -------- |
 | Python语言程序设计                                           | 北京理工大学  | 嵩天        | [python编程](https://book.douban.com/subject/26829016/) | [中国大学Mooc](https://www.icourse163.org/course/BIT-268001) | 待补充   | ★★★★☆    |
 | Introduction to Computer Science and Programming Using Python | MIT           | John Guttag | 暂无                                                    | [Edx](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | 待补充   | ★★★★★    |
+| CS61A                                                        | UCB           |             |                                                         | [课程主页](https://inst.eecs.berkeley.edu/~cs61a/archives.html) | 待补充   | ★★★★★★★  |
 
 ## 专业核心
 
 **计算机导论**
 
-| 课程名称                                                     | 开课学校/机构  | 授课教师      | 推荐教材                                                     | 课程链接                                                     | 详细介绍 | 推荐指数 |
-| ------------------------------------------------------------ | -------------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------- |
-| CS50's Introduction to Computer Science                      | HARVARD        | David J.Malan | 暂无                                                         | [Edx](https://www.edx.org/course/cs50s-introduction-to-computer-science) | 待补充   | ★★★★★★★  |
-| Introduction to Computer Science and Programming Using Python | MIT            | John Guttag   | 暂无                                                         | [Edx](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | 待补充   | ★★★★★    |
-| 15-213:Intro to Computer Systems                             | CMU            | Randy Bryant  | [深入理解计算机系统](https://book.douban.com/subject/26912767/) | [B站链接](https://www.bilibili.com/video/BV1iW411d7hd?from=search&seid=5523835544066055446) | 待补充   | ★★★★★★★  |
-| 计算机专业导论                                               | 哈尔滨工业大学 | 战德臣        | 暂无                                                         | [中国大学Mooc](https://www.icourse163.org/course/HIT-437006) | 待补充   | ★★★★☆    |
+| 课程名称                                                     | 开课学校/机构  | 授课教师      | 推荐教材 | 课程链接                                                     | 详细介绍 | 推荐指数 |
+| ------------------------------------------------------------ | -------------- | ------------- | -------- | ------------------------------------------------------------ | -------- | -------- |
+| CS50's Introduction to Computer Science                      | HARVARD        | David J.Malan | 暂无     | [Edx](https://www.edx.org/course/cs50s-introduction-to-computer-science) | 待补充   | ★★★★★★★  |
+| Introduction to Computer Science and Programming Using Python | MIT            | John Guttag   | 暂无     | [Edx](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | 待补充   | ★★★★★    |
+| 计算机专业导论                                               | 哈尔滨工业大学 | 战德臣        | 暂无     | [中国大学Mooc](https://www.icourse163.org/course/HIT-437006) | 待补充   | ★★★★☆    |
+| CS61A                                                        | UCB            |               |          | [课程主页](https://inst.eecs.berkeley.edu/~cs61a/archives.html) | 待补充   | ★★★★★★★  |
 
 **数据结构**
 
@@ -113,11 +125,13 @@
 
 **计算机组成原理**
 
-| 课程名称           | 开课学校/机构  | 授课教师       | 推荐教材                                                     | 课程链接                                                     | 详细介绍 | 推荐指数 |
-| ------------------ | -------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------- |
-| 计算机组成原理     | 哈尔滨工业大学 | 刘宏伟         | [计算机组成与设计](https://book.douban.com/subject/26604008/) | [中国大学Mooc](https://www.icourse163.org/course/0809HIT020A-309001?outvandor=zw_mooc_pclszykctj_) | 暂无     | ★★★★★    |
-| 计算机硬件系统设计 | 华中科技大学   | 谭志虎         | [计算机组成原理实践教程](https://book.douban.com/subject/30739598/) | [中国大学Mooc](https://www.icourse163.org/course/HUST-1205809816) | 暂无     | ★★★★★★★  |
-| 计算机组成原理     | 华中科技大学   | 秦磊华、谭志虎 | [计算机组成与设计](https://book.douban.com/subject/26604008/) | [中国大学Mooc](https://www.icourse163.org/course/0809HUST030-1003159001?outvandor=zw_mooc_pclszykctj_) | 暂无     | ★★★★☆    |
+| 课程名称               | 开课学校/机构  | 授课教师       | 推荐教材                                                     | 课程链接                                                     | 详细介绍 | 推荐指数 |
+| ---------------------- | -------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------- |
+| 计算机组成原理         | 哈尔滨工业大学 | 刘宏伟         | [计算机组成与设计](https://book.douban.com/subject/26604008/) | [中国大学Mooc](https://www.icourse163.org/course/0809HIT020A-309001?outvandor=zw_mooc_pclszykctj_) | 暂无     | ★★★★★    |
+| 计算机硬件系统设计     | 华中科技大学   | 谭志虎         | [计算机组成原理实践教程](https://book.douban.com/subject/30739598/) | [中国大学Mooc](https://www.icourse163.org/course/HUST-1205809816) | 暂无     | ★★★★★★★  |
+| 计算机组成原理         | 华中科技大学   | 秦磊华、谭志虎 | [计算机组成与设计](https://book.douban.com/subject/26604008/) | [中国大学Mooc](https://www.icourse163.org/course/0809HUST030-1003159001?outvandor=zw_mooc_pclszykctj_) | 暂无     | ★★★★☆    |
+| CS61C                  | UCB            |                | [计算机组成与设计](https://book.douban.com/subject/26604008/) | [课程主页](https://cs61c.org/)                               | 暂无     | ★★★★★★★  |
+| Computation Structures | MIT            |                |                                                              | [课程主页](https://6004.mit.edu/web/fall20/)                 |          | ★★★★★    |
 
 **操作系统**
 
@@ -161,11 +175,19 @@
 
 | 课程名称           | 开课学校/机构 | 授课教师 | 推荐教材                                                  | 课程链接                                                     | 详细介绍 | 推荐指数 |
 | ------------------ | ------------- | -------- | --------------------------------------------------------- | ------------------------------------------------------------ | -------- | -------- |
-| 面向对象分析与设计 | 华东师范大学  | 姜宁康   | [UML模式和应用](https://book.douban.com/subject/1792387/) | [中国大学Mooc](https://www.icourse163.org/course/ECNU-1003434002) | 待补充   | ★★★★★    |
+| 面向对象分析与设计 | 华东师范大学  | 姜宁康   | [UML模式和应用](https://book.douban.com/subject/1792387/) | [中国大学Mooc](https://www.icourse163.org/course/ECNU-1003434002) | 待补充   | ★★★★☆    |
+| OOAD&JAVAEE        | 厦门大学      | 邱明     | [UML模式和应用](https://book.douban.com/subject/1792387/) | [b站链接](https://space.bilibili.com/689233562/)             | 待补充   | ★★★☆☆    |
+
+**计算机系统**(ICS)
+
+| 课程名称                         | 开课学校/机构 | 授课教师     | 推荐教材                                                     | 课程链接                                                     | 详细介绍 | 推荐指数 |
+| -------------------------------- | ------------- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------- |
+| 15-213:Intro to Computer Systems | CMU           | Randy Bryant | [深入理解计算机系统](https://book.douban.com/subject/26912767/) | [B站链接](https://www.bilibili.com/video/BV1iW411d7hd?from=search&seid=5523835544066055446) | 待补充   | ★★★★★★★  |
+| 计算机系统基础                   | 南京大学      | 袁春风       | [计算机系统基础](https://book.douban.com/subject/26600183/)  | [中国大学Mooc](https://www.icourse163.org/course/NJU-1001625001) [课程主页](https://nju-projectn.github.io/ics-pa-gitbook/ics2020/) | 待补充   | ★★★★★★★  |
 
 ******
 
-其余核心必修课程待补充
+未完待续
 
 ## 专业选修
 
