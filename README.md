@@ -34,8 +34,6 @@
 | 课程名称 | 开课学校/机构 | 授课教师 | 配套教材 | 课程链接 | 详细介绍 | 推荐指数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 微积分 | 浙江大学 | 苏德矿 |  | [中国大学mooc](https://www.icourse163.org/course/ZJU-1003315004) | 待补充 | ★★★★★ |
-| 高等数学 | 爱启航 | 张宇 | [张宇高等数学18讲](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F26552265%2F&query=张宇高等数学&cat_id=1001&type=search&pos=0) | [b站链接](https://www.bilibili.com/video/BV165411W75q?from=search&seid=5633749851865248110) | 待补充 | ★★★★★ |
-| 高等数学零基础 | 文都考研 | 汤家凤 |  | [b站链接](https://www.bilibili.com/video/BV1WK41137s8?from=search&seid=14181172619011897132) | 待补充 | ★★★★★ |
 
 **线性代数**
 
@@ -43,7 +41,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 线性代数 | MIT | 吉尔伯特·斯特朗 | [线性代数第五版](https://book.douban.com/subject/34820335/) | [网易公开课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html) | 待补充 | ★★★★★ |
 | 线性代数 | 清华大学 | 马辉、徐帆 | [线性代数第五版](https://book.douban.com/subject/34820335/) | [学堂在线](https://www.xuetangx.com/course/THU07011000411/4231035?channel=search_result) | 待补充 | ★★★☆☆ |
-| 线性代数 | Mooc考研 | 李永乐 | [线性代数辅导讲义](https://book.douban.com/subject/4712636/) | 暂无 | 待补充 | ★★★★★ |
 
 **概率论与数理统计**
 
@@ -137,9 +134,12 @@
 
 | 课程名称                              | 开课学校/机构  | 授课教师                        | 推荐教材                                                     | 课程链接                                                     | 详细介绍 | 推荐指数 |
 | ------------------------------------- | -------------- | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------- |
-| MIT6.828:Operating System Engineering | MIT            | [Adam Belay](http://abelay.me/) | [现代操作系统](https://book.douban.com/subject/27096665/)    | [课程网址](https://pdos.csail.mit.edu/6.828/2018/schedule.html) | 暂无     | ★★★★★★★  |
-| 操作系统                              | 清华大学       | 向勇、陈渝                      | [操作系统精髓与设计原理](https://book.douban.com/subject/5064311/) | [学堂在线](https://www.xuetangx.com/course/THU08091000267/4231154?channel=search_result) | 暂无     | ★★★★★★★  |
+| MIT6.s081:Operating System Engineering | MIT            | [Adam Belay](http://abelay.me/) | [xv6book](https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf)    | [课程网址](https://pdos.csail.mit.edu/6.828/2020/schedule.html) | 暂无     | ★★★★★★★  |
+| 操作系统                              | 清华大学       | 向勇、陈渝                      | [操作系统精髓与设计原理](https://book.douban.com/subject/5064311/) | [学堂在线](https://www.xuetangx.com/course/THU08091000267/4231154?channel=search_result) | 暂无     | ★★★★★  |
 | 操作系统                              | 哈尔滨工业大学 | 李治军                          | [Linux内核完全剖析](https://book.douban.com/subject/3229243/) | [中国大学Mooc](https://www.icourse163.org/course/HIT-1002531008) | 暂无     | ★★★★★    |
+| 操作系统                              | 南京大学 | 蒋炎岩                          | [操作系统导论](https://book.douban.com/subject/33463930/) | [课程主页](http://jyywiki.cn/OS/2022/) | 暂无     | ★★★★★★★    |
+
+
 
 **计算机网络**
 
@@ -154,6 +154,8 @@
 | -------------------------- | -------------- | ------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | -------- | -------- |
 | 数据库系统                 | 哈尔滨工业大学 | 战德臣                                      | [数据库系统概念](https://book.douban.com/subject/10548379/) | [中国大学Mooc](https://www.icourse163.org/course/HIT-1001516002) | 暂无     | ★★★★★    |
 | CMU15-445:DATABASE SYSTEMS | CMU            | [ Andy Pavlo](http://www.cs.cmu.edu/~pavlo) | [数据库系统概念](https://book.douban.com/subject/10548379/) | [课程主页](https://15445.courses.cs.cmu.edu/fall2020/)       | 暂无     | ★★★★★★★  |
+| MIT 6.830:Database Systems | MIT            | [ 	Samuel Madden](http://db.csail.mit.edu/madden/) | [数据库系统概念](https://book.douban.com/subject/10548379/) | [课程主页](http://db.lcs.mit.edu/6.5830/)       | 暂无     | ★★★★★★★  |
+
 
 **算法设计与分析**
 
@@ -183,7 +185,7 @@
 | 课程名称                         | 开课学校/机构 | 授课教师     | 推荐教材                                                     | 课程链接                                                     | 详细介绍 | 推荐指数 |
 | -------------------------------- | ------------- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------- |
 | 15-213:Intro to Computer Systems | CMU           | Randy Bryant | [深入理解计算机系统](https://book.douban.com/subject/26912767/) | [B站链接](https://www.bilibili.com/video/BV1iW411d7hd?from=search&seid=5523835544066055446) | 待补充   | ★★★★★★★  |
-| 计算机系统基础                   | 南京大学      | 袁春风       | [计算机系统基础](https://book.douban.com/subject/26600183/)  | [中国大学Mooc](https://www.icourse163.org/course/NJU-1001625001) [课程主页](https://nju-projectn.github.io/ics-pa-gitbook/ics2020/) | 待补充   | ★★★★★★★  |
+| 计算机系统基础                   | 南京大学      | 袁春风/蒋炎岩       | [计算机系统基础](https://book.douban.com/subject/26600183/)  | [中国大学Mooc](https://www.icourse163.org/course/NJU-1001625001) [课程主页](https://nju-projectn.github.io/ics-pa-gitbook/ics2020/) | 待补充   | ★★★★★★★  |
 
 ******
 
@@ -196,8 +198,7 @@
 | 课程名称                | 开课学校/机构 | 授课教师 | 推荐教材 | 课程链接                                                     | 详细介绍 | 推荐指数 |
 | ----------------------- | ------------- | -------- | -------- | ------------------------------------------------------------ | -------- | -------- |
 | CS229: Machine Learning | stanford      | 吴恩达   | 暂无     | [课程主页](http://cs229.stanford.edu/) [coursera](https://www.coursera.org/learn/machine-learning?) | 待补充   | ★★★★★★★  |
-| 機器學習基石            | 国立台湾大学  | 林軒田   | 暂无     | [Coursera](https://www.coursera.org/learn/ntumlone-mathematicalfoundations) | 待补充   | ★★★★★    |
-| 机器学习                | 国立台湾大学  | 李宏毅   | 暂无     | [网易云课堂](https://study.163.com/course/introduction/1208946807.htm) | 待补充   | ★★★★★    |
+| 机器学习                | 国立台湾大学  | 李宏毅   | 暂无     | [课程主页](http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html) | 待补充   | ★★★★★    |
 
 **深度学习**
 
@@ -217,15 +218,20 @@
 
 | 课程名称             | 开课学校/机构 | 授课教师 | 推荐教材 | 课程链接                                                     | 详细介绍 | 推荐指数 |
 | -------------------- | ------------- | -------- | -------- | ------------------------------------------------------------ | -------- | -------- |
-| 现代计算机图形学入门 | GAMES         | 闫令琪   | 暂无     | [B站链接](https://www.bilibili.com/video/BV1X7411F744?from=search&seid=93409744662320494) | 待补充   | ★★★★★    |
+| 现代计算机图形学入门 | GAMES         | 闫令琪   | 暂无     | [B站链接](https://www.bilibili.com/video/BV1X7411F744?from=search&seid=93409744662320494) | 待补充   | ★★★★★★★    |
 | 计算机图形学         | 华中科技大学  | 万琳     | 暂无     | [中国大学Mooc](https://www.icourse163.org/u/mooc71358385601503610?userId=1151263615) | 待补充   | ★★★★★    |
-|                      |               |          |          |                                                              |          |          |
 
 **数据挖掘**
 
 | 课程名称            | 开课学校/机构 | 授课教师 | 推荐教材 | 课程链接                                                     | 详细介绍 | 推荐指数 |
 | ------------------- | ------------- | -------- | -------- | ------------------------------------------------------------ | -------- | -------- |
 | 数据挖掘-理论与算法 | 清华大学      | 袁博     | 暂无     | [学堂在线](https://www.xuetangx.com/course/THU08091000385/4233665?channel=search_result) | 待补充   | ★★★★★    |
+
+**分布式系统**
+
+| 课程名称            | 开课学校/机构 | 授课教师 | 推荐教材 | 课程链接                                                     | 详细介绍 | 推荐指数 |
+| ------------------- | ------------- | -------- | -------- | ------------------------------------------------------------ | -------- | -------- |
+|6.824: Distributed Systems| MIT      | Robert Morris	     | [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)     | [课程主页](https://pdos.csail.mit.edu/6.824/general.html) | 待补充   | ★★★★★★★    |
 
 ******
 
